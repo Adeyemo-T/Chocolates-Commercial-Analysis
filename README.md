@@ -24,8 +24,8 @@ The core relationship links the central **`shipments` (Fact Table)** to four **D
 #### Data Model (Star Schema)
 The structure allows for highly detailed analysis, such as filtering sales by a specific salesperson, region, and date simultaneously.
 
+![Image](https://github.com/user-attachments/assets/725d445d-7d60-4ec8-a74d-40f323931ad9)
 
-*(**Action:** Insert the image of your Power BI Model View showing the five connected tables.)*
 
 #### Data Cleaning and Preparation
 The data cleaning and transformation process was entirely executed using **Power Query (M Language)** to ensure data quality and integrity before modeling.
