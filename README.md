@@ -1,8 +1,5 @@
-# Chocolates-Commercial-Analysis
-Commercial analysis identifying severe profit margin risks in global markets and optimizing sales force efficiency.
-
-
 # Awesome Chocolates Commercial Analysis: Targeting Profitability in Key Markets
+![Image](https://github.com/user-attachments/assets/44dbc146-d3be-430c-a8c8-2168b7ab4306)
 
 ## 1. Project Background
 
@@ -53,8 +50,7 @@ Awesome Chocolates generated **$34M in total sales** and **$21M in profit**, but
 * **Regional Profitability Crisis:** The analysis of the India market reveals a low **3.8% Profit LBS%**, confirming that products and sales strategies are fundamentally flawed in that region and require immediate restructuring.
 * **Monthly Volatility:** The overall trend line shows high sales volatility, with the company-wide decline of **10.8% MOM** suggesting systemic instability in the commercial pipeline.
 
-![Overall KPIs and Sales Trend Line](YOUR_IMAGE_LINK_FOR_KPI_AND_SALES_TREND_CHART_HERE)
-*(**Action:** Insert the image link showing the **Total KPIs** and the **Sales by Start of Month/Shipment Analysis charts**.)*
+![Image](https://github.com/user-attachments/assets/c3a520e8-45e5-4b9e-a616-b4461c2c540f)
 
 ***
 
@@ -65,8 +61,7 @@ This section details which products are driving and which are dragging down the 
 * **India's Margin Risks:** In the India market, products like **Milk Bars ($99K profit)** and **Raspberry Choco ($114K profit)** are major contributors to low overall LBS%. Their high sales volume but low profitability are the root cause of the regional margin dilution.
 * **Global Margin Risks:** Globally, products like **50% Dark Bites (27.2% LBS%)** remain a margin risk across all regions.
 
-![Product Performance Table - India Filtered](YOUR_IMAGE_LINK_FOR_INDIA_PRODUCT_PERFORMANCE_TABLE_HERE)
-*(**Action:** Insert the image link showing the **Product Performance table filtered to India**.)*
+![Image](https://github.com/user-attachments/assets/6172408f-a29c-4be8-918c-d9b0f4128429)
 
 ***
 
@@ -75,9 +70,7 @@ This section details which products are driving and which are dragging down the 
 * **Top Performers:** Globally, **Gunnar Cockshoot** and **Dennison Crosswaite** lead the team with the highest profitability margins (Profit LBS%).
 * **Regional Disparity:** The massive difference in LBS% between Canada (7.2%) and India (3.8%) confirms that sales execution or operational costs differ significantly by geography, requiring country-specific action plans.
 
-![Salesperson Performance Table](YOUR_IMAGE_LINK_FOR_SALESPERSON_PERFORMANCE_TABLE_HERE)
-*(**Action:** Insert the image link showing the **Salesperson Performance table filtered to all countries**, emphasizing the global benchmark.)*
-
+![Image](https://github.com/user-attachments/assets/bb880554-faf0-4fcc-9a29-535e4beb3991)
 ## 4. Business Recommendations
 
 Based on the detailed commercial performance analysis, the following actions are critical to stabilize sales, reduce cost-to-sale ratios, and maximize profitability (Profit LBS%):
