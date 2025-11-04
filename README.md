@@ -46,7 +46,7 @@ Awesome Chocolates generated **$34M in total sales** and **$21M in profit**, but
 
 ![Image](https://github.com/user-attachments/assets/c3a520e8-45e5-4b9e-a616-b4461c2c540f)
 
-***
+
 
 #### Product Profitability Deep Dive (India Market Focus)
 
